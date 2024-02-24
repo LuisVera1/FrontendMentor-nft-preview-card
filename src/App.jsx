@@ -6,7 +6,7 @@ function App() {
     <main>
       <article className="card">
         <figure className="card__figure">
-          <img className="card__img" src="/image-equilibrium.jpg" />
+          <img className="card__img" src="/image-equilibrium.jpg" alt="equilibrium" />
           <div className="card__overlay">
             <img className="card__icon" src="/icon-view.svg" alt="show" />
           </div>
