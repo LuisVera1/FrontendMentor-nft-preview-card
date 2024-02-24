@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Solution](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/LuisVera1/FrontendMentor-nft-preview-card)
+- Live Site URL: [Solution](https://frontend-mentor-nft-preview-card-two.vercel.app/)
 
 ## My process
 
